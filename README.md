@@ -1,8 +1,11 @@
 Hi there 👋 My name is Richie
-========================================================================================================================================
+===============================
 
-*   :briefcase: I am a Front End Developer.
+I am a Front End Developer
+--------------------------
 *   :earth_asia:  Based in Indonesia.
+*   :brain:  Learning React
+*   :handshake: Happy to learn and improve!
 <!-- *   :desktop_computer:  Check out my portfolio <a target="_blank" rel="noreferrer" href='google.com'>here</a>. -->
 
 ### Skills
@@ -13,6 +16,7 @@ Hi there 👋 My name is Richie
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> &nbsp;
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> &nbsp;
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a> 
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/laravel/art/master/laravel-logo.png" width="36" height="36" alt="Laravel" /></a> 
 
 ### Socials
 
@@ -21,4 +25,3 @@ Hi there 👋 My name is Richie
   </a>
 </p>
 
-Happy to learn and improve!
