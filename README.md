@@ -1,11 +1,12 @@
 Hi there 👋
 ===============================
 
-I am a Web Developer and a Data Analyst
+I am an aspiring Software Developer
 --------------------------
 *   🌏  Based in Tangerang, Indonesia. 
-*   📊  Learning Data Analytics and Science using Python.
 *   🧠  Learning Front-end using React.
+*   📊  Learning Data Analytics using Python.
+*   🎮  Learning Game Development using Godot.
 *   🤝  Happy to learn and improve! 
 
 ### Skills
